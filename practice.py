@@ -4,3 +4,4 @@ print(x)
 print(y) 
 thistuple = ("apple", "banana", "cherry")
 print(thistuple)
+
